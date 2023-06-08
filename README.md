@@ -1,4 +1,4 @@
-# DragNDrop_2PT_1
+# DragNDrop_Belovinceva_2PT-1
 Projekts "Drag N Drop", kura ir 12 masinas kuras vajadzes pevinot no vinas pareizas vitetas. Pec tam kas bisas masinas ir no savu pareizu vieta spēlie ir beigusies un radas spelitaja zerultats, laiks un par cik zvaigsnitiem izdarit uzdevums.
 
 ## Darāmo darbu saraksts
@@ -15,4 +15,4 @@ Projekts "Drag N Drop", kura ir 12 masinas kuras vajadzes pevinot no vinas parei
 - [x] izdarit rioitu poga
 - [x] izdarim sakuma UI 
 - [x] Skaņas efekti
-# DragNDrop_Belovinceva
+
